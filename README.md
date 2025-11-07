@@ -1,5 +1,5 @@
 <!-- Header -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Chronos778&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=I%20like%20to%20build%20things%20that%20feel%20alive&descAlignY=65&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Chronos778&fontSize=50&fontAlignY=40&fontColor=ffffff&desc=I%20like%20to%20build%20things&descAlignY=65&descAlign=50)
 
 ---
 
