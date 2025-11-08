@@ -62,8 +62,7 @@ Built with React Native, integrated APIs, and a clean, mobile-friendly design.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="175"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chronos778&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chronos778&theme=tokyo-night&area=true&hide_border=true" width="100%"/>
 </p>
 
 <p align="center">
