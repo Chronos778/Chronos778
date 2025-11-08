@@ -10,18 +10,6 @@
 
 ---
 
-<div align="center">
-
-### 🚀 What I Do
-
-I combine **logic**, **design**, and **creativity** to build meaningful projects.  
-From AI-powered applications to interactive data visualizations,  
-I explore the intersection where **code meets impact**.
-
-</div>
-
----
-
 ### 💻 Tech Arsenal
 
 ```text
