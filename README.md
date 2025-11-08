@@ -66,10 +66,12 @@ Available for collaboration on interesting projects.
 <div align="center">
 
 ```ascii
-┌─────────────────────────────────────────┐
-│  Building things that shouldn't exist   │
-│  until someone builds them.             │
-└─────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│  "I like to build things."                       │
+│  Every project is a step forward.                │
+│  Sometimes clean, sometimes messy —              │
+│  but always progress.                            │
+└──────────────────────────────────────────────────┘
 ```
 
 </div>
