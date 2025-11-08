@@ -62,22 +62,20 @@ Built with React Native, integrated APIs, and a clean, mobile-friendly design.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="175"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chronos778&theme=tokyonight&hide_border=true" height="175"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chronos778&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chronos778&theme=tokyonight" height="150" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chronos778&theme=tokyonight" height="150" />
-</p>
+---
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chronos778&theme=tokyonight&utcOffset=5.5" height="150" />
-</p>
+I like to build — a lot.  
+Every commit, repo, and experiment you see here is part of something I worked on, 
+Sometimes it’s clean, sometimes it’s messy — but it’s always progress.  
+
 
 ---
 
