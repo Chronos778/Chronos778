@@ -58,12 +58,25 @@ Built with React Native, integrated APIs, and a clean, mobile-friendly design.
 ### GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chronos778&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chronos778&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Chronos778&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Chronos778&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chronos778&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chronos778&theme=tokyonight&utcOffset=5.5" height="150" />
 </p>
 
 ---
