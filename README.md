@@ -1,6 +1,6 @@
 <div align="center">
 
-# MAITHIL PATIL
+# I'M MAITHIL PATIL
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Engineering+Student;Building+intelligent+systems;Experimenting+with+code+and+data" alt="Typing SVG" />
 
