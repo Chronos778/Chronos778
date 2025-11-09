@@ -155,11 +155,9 @@ const maithil = new Developer();
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎵 Recently Played
+### 🎵 Spotify
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0gg4st4k5208ie9e22fsz94si&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played" />
-</a>
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/0gg4st4k5208ie9e22fsz94si)
 
 ### 💻 Coding Activity
 
