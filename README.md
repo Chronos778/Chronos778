@@ -145,7 +145,7 @@ const maithil = new Developer();
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/YOUR_DISCORD)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lazy_man7)
 
 </div>
 
@@ -155,11 +155,11 @@ const maithil = new Developer();
 
 ### 💭 Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🎵 Spotify Playing
 
-[![Spotify](https://novatorem-chronos778.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31yaqw3rzabe5dfkdxbyo3fg5hom)
 
 ---
 
