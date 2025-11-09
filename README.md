@@ -115,6 +115,23 @@ const maithil = new Developer();
 
 ---
 
+## Detailed Metrics
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/Chronos778/Chronos778/main/github-metrics.svg)
+
+</div>
+
+---
+
+## Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
 ## Contribution Graph
 
 <div align="center">
@@ -122,18 +139,6 @@ const maithil = new Developer();
 ![Snake animation](https://raw.githubusercontent.com/Chronos778/Chronos778/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-## Current Focus
-
-```yaml
-- 🔭 Working on: Turning coffee into code and bugs into features
-- 🌱 Learning: How to center a div (still struggling after 10 years)
-- 👯 Looking to collaborate on: Projects that don't require reading documentation
-- 💬 Ask me about: Why my code works on my machine but nowhere else
-- ⚡ Fun fact: I have 47 browser tabs open and I need all of them
-```
 
 ---
 
