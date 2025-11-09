@@ -128,11 +128,11 @@ const maithil = new Developer();
 ## Current Focus
 
 ```yaml
-- Working on: Full-stack web applications with modern technologies
-- Learning: Cloud architecture, DevOps practices, and system design
-- Looking to collaborate on: Open source projects and innovative ideas
-- Ask me about: JavaScript, React, Node.js, Python, or anything tech
-- Fun fact: I believe the best code is the code you don't have to write
+- 🔭 Working on: Turning coffee into code and bugs into features
+- 🌱 Learning: How to center a div (still struggling after 10 years)
+- 👯 Looking to collaborate on: Projects that don't require reading documentation
+- 💬 Ask me about: Why my code works on my machine but nowhere else
+- ⚡ Fun fact: I have 47 browser tabs open and I need all of them
 ```
 
 ---
