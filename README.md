@@ -115,23 +115,6 @@ const maithil = new Developer();
 
 ---
 
-## Detailed Metrics
-
-<div align="center">
-
-![Metrics](https://raw.githubusercontent.com/Chronos778/Chronos778/main/github-metrics.svg)
-
-</div>
-
----
-
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## Contribution Graph
 
 <div align="center">
