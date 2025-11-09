@@ -141,10 +141,8 @@ const maithil = new Developer();
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourportfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chronos778)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maithilpatil9@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lazy_man7)
 
 </div>
@@ -159,7 +157,7 @@ const maithil = new Developer();
 
 ### 🎵 Recently Played
 
-[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0gg4st4k5208ie9e22fsz94si&count=5)](https://open.spotify.com/user/0gg4st4k5208ie9e22fsz94si)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0gg4st4k5208ie9e22fsz94si&redirect=true)
 
 ---
 
