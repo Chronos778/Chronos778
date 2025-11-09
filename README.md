@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Maithil
 
-### Software Developer | Problem Solver | Tech Enthusiast
+### Aspiring Data Scientist | Problem Solver | Tech Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Aspiring+Data+Scientist;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Chronos778?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/Chronos778)
 [![Profile Views](https://komarev.com/ghpvc/?username=Chronos778&style=for-the-badge&color=0e75b6)](https://github.com/Chronos778)
