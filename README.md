@@ -21,7 +21,7 @@ class Developer {
   location: string = "Earth";
   
   skills: {
-    languages: string[] = ["JavaScript", "TypeScript", "Python", "Java", "C++"];
+    languages: string[] = ["JavaScript", "TypeScript", "Python", "Java", "C/C++"];
     frontend: string[] = ["React", "Next.js", "Vue", "Tailwind CSS", "Material-UI"];
     backend: string[] = ["Node.js", "Express", "Django", "FastAPI", "Spring Boot"];
     databases: string[] = ["MongoDB", "PostgreSQL", "MySQL", "Redis", "Firebase"];
@@ -139,7 +139,7 @@ const maithil = new Developer();
 
 <div align="center">
 
-### Dev Quote
+### Quotes
 
 <!-- Custom Quotes API: https://quotes-api-ruddy.vercel.app -->
 ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dark&width=800&height=200)
