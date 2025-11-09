@@ -161,7 +161,7 @@ const maithil = new Developer();
 
 ### 💬 Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/lazy_man7)](https://discord.com/users/lazy_man7)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1147423568808906793)](https://discord.com/users/1147423568808906793)
 
 ---
 
