@@ -157,7 +157,9 @@ const maithil = new Developer();
 
 ### 🎵 Recently Played
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=0gg4st4k5208ie9e22fsz94si&count=5&width=500)](https://open.spotify.com/user/0gg4st4k5208ie9e22fsz94si)
+<a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0gg4st4k5208ie9e22fsz94si&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" alt="Spotify recently played" />
+</a>
 
 ### 💻 Coding Activity
 
