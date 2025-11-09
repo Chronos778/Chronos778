@@ -153,10 +153,7 @@ const maithil = new Developer();
 
 ### 💭 Dev Quote
 
-<!-- Using quotes-github-readme for dynamic quotes -->
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-*Also check out my custom [Quotes API](https://quotes-api-ruddy.vercel.app/quotes/random) - Built with ❤️*
 
 ### 🎵 Spotify
 
