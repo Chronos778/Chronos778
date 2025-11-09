@@ -159,7 +159,7 @@ const maithil = new Developer();
 
 ### 🎵 Spotify Playing
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/31yaqw3rzabe5dfkdxbyo3fg5hom)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/0gg4st4k5208ie9e22fsz94si)
 
 ---
 
