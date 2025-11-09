@@ -157,7 +157,12 @@ const maithil = new Developer();
 
 ### 🎵 Recently Played
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=0gg4st4k5208ie9e22fsz94si&redirect=true)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=0gg4st4k5208ie9e22fsz94si&count=5&width=500)](https://open.spotify.com/user/0gg4st4k5208ie9e22fsz94si)
+
+### 💻 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ---
 
