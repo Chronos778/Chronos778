@@ -159,7 +159,7 @@ const maithil = new Developer();
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### � Discord Status
+### 💬 Discord Status
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/lazy_man7)](https://discord.com/users/lazy_man7)
 
