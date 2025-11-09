@@ -157,9 +157,9 @@ const maithil = new Developer();
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎵 Spotify Playing
+### 🎵 Recently Played
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/0gg4st4k5208ie9e22fsz94si)
+[![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=0gg4st4k5208ie9e22fsz94si&count=5)](https://open.spotify.com/user/0gg4st4k5208ie9e22fsz94si)
 
 ---
 
