@@ -1,85 +1,95 @@
+# Hi there, I'm Maithil 👋
+
 <div align="center">
-
-# I'M MAITHIL PATIL
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Data+Science+Engineering+Student;Building+intelligent+systems;Experimenting+with+code+and+data" alt="Typing SVG" />
+  
+[![GitHub followers](https://img.shields.io/github/followers/Chronos778?style=social)](https://github.com/Chronos778)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
 
 </div>
 
 ---
 
-<br>
-
-<div align="center">
-
-### STACK
-
-</div>
+### 👨‍💻 About Me
 
 ```javascript
-const skills = {
-    languages: ["Python", "JavaScript", "C++"],
-    frontend: ["React", "React Native", "D3.js"],
-    backend: ["Node.js", "Flask", "REST APIs"],
-    data_ai: ["TensorFlow", "Pandas", "NumPy", "Scikit-learn", "Matplotlib"],
-    tools: ["Git", "Docker", "Jupyter", "VS Code"]
+const maithil = {
+    pronouns: "He" | "Him",
+    code: ["JavaScript", "Python", "TypeScript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev", "cloud"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["Django", "Flask"]
+        },
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        misc: ["Docker", "AWS", "Git"]
+    },
+    currentFocus: "Building amazing web applications"
 };
 ```
 
-<br>
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chronos778&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-<br>
+### 🛠️ Tech Stack
 
 <div align="center">
 
-### METRICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chronos778&theme=radical&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=ffffff&sideLabels=ffffff" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8" height="180"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chronos778&theme=high-contrast&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="95%"/>
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>
-
-<br>
 
 ---
 
-<br>
+### 📫 Connect With Me
 
 <div align="center">
 
-### CONTACT
-
-**maithilpatil9@gmail.com**
-
-Available for collaboration on interesting projects.
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
-<br>
+---
 
 <div align="center">
-
-```ascii
-┌──────────────────────────────────────────────────┐
-│  "I like to build things."                       │
-│  Every project is a step forward.                │
-│  Sometimes clean, sometimes messy —              │
-│  but always progress.                            │
-└──────────────────────────────────────────────────┘
-```
+  
+### 💭 Quote of the Day
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
-<br>
+---
 
 <div align="center">
+  
+**✨ Making the web beautiful, one commit at a time ✨**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=120&section=footer" width="100%"/>
+![Visitor Count](https://profile-counter.glitch.me/Chronos778/count.svg)
 
 </div>
