@@ -154,9 +154,10 @@ const maithil = new Developer();
 ### 💭 Dev Quote
 
 <!-- Custom Quotes API created by me: https://quotes-api-ruddy.vercel.app -->
-![Quote](https://quotes-api-ruddy.vercel.app/api/random)
 
-*Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app)*
+> 💡 Check out random dev quotes from my custom [Quotes API](https://quotes-api-ruddy.vercel.app/quotes/random)!
+
+*Built with ❤️ using my own [Quotes API](https://quotes-api-ruddy.vercel.app) - Try endpoints: `/quotes`, `/quotes/:id`, `/quotes/random`*
 
 ### 🎵 Spotify
 
