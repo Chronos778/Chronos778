@@ -99,7 +99,7 @@ const maithil = new Developer();
 <!-- Custom Quotes API: https://quotes-api-ruddy.vercel.app -->
 ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dark&width=800&height=200)
 
-*Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 5000+ quotes!*
+*Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 10,000+ quotes!*
 
 ### Spotify
 
