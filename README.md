@@ -60,13 +60,13 @@ const maithil = new Developer();
 
 ---
 
-## Achievements
+<!-- ## Achievements
 
 <div align="center">
   
 <img src="https://raw.githubusercontent.com/Chronos778/Chronos778/main/github-metrics.svg" alt="Metrics" width="100%">
 
-</div>
+</div> -->
 
 ---
 
