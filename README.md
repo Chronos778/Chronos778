@@ -68,8 +68,6 @@ const maithil = new Developer();
 
 </div> -->
 
----
-
 ## Contribution Graph
 
 <div align="center">
