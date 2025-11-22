@@ -60,11 +60,11 @@ const maithil = new Developer();
 
 ---
 
-## GitHub Trophies
+## Achievements
 
 <div align="center">
   
-![](https://github-profile-trophy.vercel.app/?username=Chronos778&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+<img src="https://raw.githubusercontent.com/Chronos778/Chronos778/main/github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
 
