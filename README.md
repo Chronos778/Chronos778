@@ -20,15 +20,14 @@ class Developer {
   name: string = "Maithil";
   location: string = "Earth";
   
-  skills: {
-  languages: ["JavaScript", "Python", "Java", "C/C++"],
-  frontend: ["React", "Next.js"],
-  backend: ["Node.js", "FastAPI", "Python"],
-  databases: ["PostgreSQL", "MongoDB", "Mysql", "Sqlite3"],
-  tools: ["Git", "Github", "Linux", "Vs code"]
+  skills = {
+    languages: ["JavaScript", "Python", "Java", "C/C++"],
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js", "FastAPI", "Python"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite3"],
+    tools: ["Git", "GitHub", "Linux", "VS Code"]
   };
 
-  
   currentlyLearning: string = "AI/ML";
   
   getGoals(): string[] {
@@ -49,10 +48,10 @@ const maithil = new Developer();
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&cache_seconds=86400"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Chronos778&theme=radical&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Chronos778&theme=radical&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" alt="GitHub Streak"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chronos778&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff" alt="Contribution Graph"/>
 
