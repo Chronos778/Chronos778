@@ -42,15 +42,6 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_threshold: 0%
           
-          # Habits
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          
           # Lines of code
           plugin_lines: yes
           plugin_lines_history_limit: 1
@@ -61,10 +52,4 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
-          
-          # Achievements
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_secrets: no
-          plugin_achievements_threshold: C
 
