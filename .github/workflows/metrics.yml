@@ -12,6 +12,7 @@ jobs:
       contents: write
     steps:
       - uses: lowlighter/metrics@latest
+        with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           
@@ -20,7 +21,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
-          config_padding: 0, 10 + 5%
+          config_padding: 0, 8 + 5%
           
           # Colors (Cyberpunk/Neon Theme)
           config_display: large
