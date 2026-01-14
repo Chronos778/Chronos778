@@ -48,24 +48,9 @@ const maithil = new Developer();
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=00f7ff&text_color=c9d1d9&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=c9d1d9&cache_seconds=86400"/>
-
-<img src="https://streak-stats.demolab.com/?user=Chronos778&theme=radical&hide_border=true&background=0d1117&ring=00f7ff&fire=00f7ff&currStreakLabel=00f7ff" alt="GitHub Streak"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chronos778&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ffffff" alt="Contribution Graph"/>
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
-
----
-
-<!-- ## Achievements
-
-<div align="center">
-  
-<img src="https://raw.githubusercontent.com/Chronos778/Chronos778/main/github-metrics.svg" alt="Metrics" width="100%">
-
-</div> -->
 
 ## Contribution Graph
 
