@@ -24,7 +24,7 @@ class Developer {
     languages: ["JavaScript", "Python", "Java", "C/C++"],
     frontend: ["React", "Next.js"],
     backend: ["Node.js", "FastAPI", "Python"],
-    databases: ["PostgreSQL", "MongoDB", "MySQL", "SQLite3"],
+    databases: ["PostgreSQL", "MySQL", "SQLite3"],
     tools: ["Git", "GitHub", "Linux", "VS Code"]
   };
 
