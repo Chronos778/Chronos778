@@ -1,14 +1,13 @@
 <div align="center">
 
-# Hey, I'm Maithil
+# 👋 Hey, I'm Maithil
 
-### Aspiring Data Scientist | Builder | Open Source Learner
+### Aspiring Data Scientist | Problem Solver | Tech Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=00C2FF&center=true&vCenter=true&width=560&lines=Building+projects+that+solve+real+problems;Exploring+AI%2FML+and+full-stack+engineering;Learning+in+public%2C+shipping+consistently)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Always+Building;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 [![GitHub followers](https://img.shields.io/github/followers/Chronos778?style=for-the-badge&logo=github&color=0e75b6)](https://github.com/Chronos778)
 [![Profile Views](https://komarev.com/ghpvc/?username=Chronos778&style=for-the-badge&color=0e75b6)](https://github.com/Chronos778)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Building%20Soon-0e75b6?style=for-the-badge)](#)
 
 </div>
 
@@ -16,89 +15,73 @@
 
 ## About Me
 
-- I enjoy turning ideas into useful products with clean, scalable code.
-- I focus on data-driven systems, backend APIs, and practical web applications.
-- I am currently learning AI/ML and improving my problem-solving depth.
-- I like contributing to open source and documenting what I learn.
+```typescript
+class Developer {
+  name: string = "Maithil";
+  location: string = "Earth";
+  
+  skills = {
+    languages: ["JavaScript", "Python", "Java", "C/C++"],
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js", "FastAPI", "Python"],
+    databases: ["PostgreSQL", "MySQL", "SQLite3"],
+    tools: ["Git", "GitHub", "Linux", "VS Code"]
+  };
 
-## Tech Stack
+  currentlyLearning: string = "AI/ML";
+  
+  getGoals(): string[] {
+    return [
+      "Build scalable applications",
+      "Contribute to open source",
+      "Share knowledge with the community"
+    ];
+  }
+}
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## Current Focus
-
-- Building production-ready full-stack projects.
-- Improving data structures and algorithms for interviews and contests.
-- Experimenting with AI-powered apps and automation.
+const maithil = new Developer();
+```
 
 ---
 
 ## GitHub Analytics
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chronos778&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" width="49%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chronos778&layout=compact&theme=transparent&hide_border=true" alt="Top languages" width="49%">
-
-<img src="github-metrics.svg" alt="Detailed GitHub metrics" width="100%">
+  
+  <img src="github-metrics.svg" alt="Metrics" width="100%">
 
 </div>
 
-## Contribution Activity
+## Contribution Graph
 
 <div align="center">
-
+  
 ![Snake animation](https://raw.githubusercontent.com/Chronos778/Chronos778/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
 ---
 
-## Connect With Me
+## Connect with Me
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chronos778)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maithilpatil9@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lazy_man7)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lazy_man7)
 
 </div>
 
 ---
 
-## Fun Extras
-
 <div align="center">
 
-### Random Quote
+### Quotes
 
+<!-- Custom Quotes API: https://quotes-api-ruddy.vercel.app -->
 ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dark&width=800&height=200)
 
-Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 10,000+ quotes.
+*Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 10,000+ quotes!*
 
 ### Spotify
 
@@ -108,14 +91,10 @@ Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 10,0
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1147423568808906793)](https://discord.com/users/1147423568808906793)
 
-</div>
-
 ---
 
-<div align="center">
+**From [Chronos778](https://github.com/Chronos778) with 💙**
 
-From [Chronos778](https://github.com/Chronos778) with curiosity and consistency.
-
-"Code is like humor. When you have to explain it, it's bad." - Cory House
+*"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
 </div>
