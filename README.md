@@ -56,7 +56,7 @@ const maithil = new Developer();
 
 <div align="center">
   
-![Snake animation](https://raw.githubusercontent.com/Chronos778/Chronos778/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](github-contribution-grid-snake-dark.svg)
 
 </div>
 
