@@ -17,9 +17,9 @@
 
 ```math
 \begin{aligned}
-  \mathbf{Developer} &= \text{Maithil} \\
-  \mathbf{Stack} &= \{ \text{Python, JavaScript, Java, React, Node.js, FastAPI} \} \\
-  \lim_{t \to \infty} \mathbf{Learning}(t) &= \text{AI / ML}
+  \mathcal{E}_{\text{Maithil}} &= \arg\max_{\theta} \mathbb{E} \left[ \text{Innovation} \mid \text{Data}, \mathbf{S}_{\text{stack}} \right] \\
+  \mathbf{S}_{\text{stack}} &= \begin{bmatrix} \text{Python} & \text{FastAPI} & \text{Java} \\ \text{JavaScript} & \text{React} & \text{Node.js} \end{bmatrix} \\
+  \frac{\partial}{\partial t} \text{Knowledge} &= \nabla_{\theta} \left( \text{AI} + \text{ML} \right) > 0 \quad \text{(Continuous Learning)}
 \end{aligned}
 ```
 
