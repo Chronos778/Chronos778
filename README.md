@@ -15,12 +15,31 @@
 
 ## About Me
 
-```math
-\begin{aligned}
-  \mathcal{E}_{\text{Maithil}} &= \arg\max \mathbb{E} [ \text{Impact} \mid \text{Data} ] \\
-  \mathbf{S}_{\text{stack}} &= \begin{bmatrix} \text{Python} & \text{React} \\ \text{JavaScript} & \text{Node.js} \\ \text{Java} & \text{FastAPI} \end{bmatrix} \\
-  \lim_{t \to \infty} \nabla \text{Skills}(t) &= \text{AI} \cup \text{ML}
-\end{aligned}
+```typescript
+class Developer {
+  name: string = "Maithil";
+  location: string = "Earth";
+  
+  skills = {
+    languages: ["JavaScript", "Python", "Java", "C/C++"],
+    frontend: ["React", "Next.js"],
+    backend: ["Node.js", "FastAPI", "Python"],
+    databases: ["PostgreSQL", "MySQL", "SQLite3"],
+    tools: ["Git", "GitHub", "Linux", "VS Code"]
+  };
+
+  currentlyLearning: string = "AI/ML";
+  
+  getGoals(): string[] {
+    return [
+      "Build scalable applications",
+      "Contribute to open source",
+      "Share knowledge with the community"
+    ];
+  }
+}
+
+const maithil = new Developer();
 ```
 
 ---
