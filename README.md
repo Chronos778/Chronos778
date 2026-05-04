@@ -15,31 +15,12 @@
 
 ## About Me
 
-```typescript
-class Developer {
-  name: string = "Maithil";
-  location: string = "Earth";
-  
-  skills = {
-    languages: ["JavaScript", "Python", "Java", "C/C++"],
-    frontend: ["React", "Next.js"],
-    backend: ["Node.js", "FastAPI", "Python"],
-    databases: ["PostgreSQL", "MySQL", "SQLite3"],
-    tools: ["Git", "GitHub", "Linux", "VS Code"]
-  };
-
-  currentlyLearning: string = "AI/ML";
-  
-  getGoals(): string[] {
-    return [
-      "Build scalable applications",
-      "Contribute to open source",
-      "Share knowledge with the community"
-    ];
-  }
-}
-
-const maithil = new Developer();
+```math
+\begin{aligned}
+  \mathbf{Developer} &= \text{Maithil} \\
+  \mathbf{Stack} &= \{ \text{Python, JavaScript, Java, React, Node.js, FastAPI} \} \\
+  \lim_{t \to \infty} \mathbf{Learning}(t) &= \text{AI / ML}
+\end{aligned}
 ```
 
 ---
@@ -66,7 +47,6 @@ const maithil = new Developer();
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chronos778)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maithilpatil9@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/lazy_man7)
 
