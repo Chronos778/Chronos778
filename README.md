@@ -17,9 +17,9 @@
 
 ```math
 \begin{aligned}
-  \mathcal{E}_{\text{Maithil}} &= \arg\max_{\theta} \mathbb{E} \left[ \text{Innovation} \mid \text{Data}, \mathbf{S}_{\text{stack}} \right] \\
-  \mathbf{S}_{\text{stack}} &= \begin{bmatrix} \text{Python} & \text{FastAPI} & \text{Java} \\ \text{JavaScript} & \text{React} & \text{Node.js} \end{bmatrix} \\
-  \frac{\partial}{\partial t} \text{Knowledge} &= \nabla_{\theta} \left( \text{AI} + \text{ML} \right) > 0 \quad \text{(Continuous Learning)}
+  \mathcal{E}_{\text{Maithil}} &= \arg\max \mathbb{E} [ \text{Impact} \mid \text{Data} ] \\
+  \mathbf{S}_{\text{stack}} &= \begin{bmatrix} \text{Python} & \text{React} \\ \text{JavaScript} & \text{Node.js} \\ \text{Java} & \text{FastAPI} \end{bmatrix} \\
+  \lim_{t \to \infty} \nabla \text{Skills}(t) &= \text{AI} \cup \text{ML}
 \end{aligned}
 ```
 
