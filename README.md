@@ -42,11 +42,15 @@
     <tr>
       <td width="50%" align="center">
         <h3>🎧 Spotify Activity</h3>
-        [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=default&show_offline=false&background_color=1e1e1e&interchange=false&profanity=false&bar_color=98c379&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+        <a href="https://github.com/kittinan/spotify-github-profile">
+          <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=default&show_offline=false&background_color=1e1e1e&interchange=false&profanity=false&bar_color=98c379&bar_color_cover=false" alt="spotify-github-profile" />
+        </a>
       </td>
       <td width="50%" align="center">
         <h3>💬 Discord Presence</h3>
-        [![Discord Presence](https://lanyard.cnrad.dev/api/1147423568808906793)](https://discord.com/users/1147423568808906793)
+        <a href="https://discord.com/users/1147423568808906793">
+          <img src="https://lanyard.cnrad.dev/api/1147423568808906793" alt="Discord Presence" />
+        </a>
       </td>
     </tr>
   </table>
