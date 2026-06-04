@@ -49,7 +49,7 @@
       <td width="50%" align="center">
         <h3>💬 Discord Presence</h3>
         <a href="https://discord.com/users/1147423568808906793">
-          <img src="https://lanyard.cnrad.dev/api/1147423568808906793?theme=dark&bg=1e1e1e&animated=true" alt="Discord Presence" />
+          <img src="https://lanyard-profile-readme.vercel.app/api/1147423568808906793?theme=dark&bg=1e1e1e&animated=true" alt="Discord Presence" />
         </a>
       </td>
     </tr>
