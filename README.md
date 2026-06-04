@@ -49,7 +49,7 @@
       <td width="50%" align="center">
         <h3>💬 Discord Presence</h3>
         <a href="https://discord.com/users/1147423568808906793">
-          <img src="https://lanyard.cnrad.dev/api/1147423568808906793" alt="Discord Presence" />
+          <img src="https://lanyard.cnrad.dev/api/1147423568808906793?theme=dark&bg=1e1e1e&animated=true" alt="Discord Presence" />
         </a>
       </td>
     </tr>
@@ -57,7 +57,7 @@
 
   <br />
 
-  ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dark&width=800&height=200)
+  ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=forest&width=800&height=200)
   <br />
   *Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 10,000+ quotes!*
 
