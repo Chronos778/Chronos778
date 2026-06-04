@@ -16,7 +16,7 @@
 ## About Me
 
 <div align="center">
-  <img src="about-me-ui.svg" alt="About Me OS Window" width="100%" />
+  <img src="about-me.svg" alt="About Me OS Window" width="100%" />
 </div>
 
 ---
