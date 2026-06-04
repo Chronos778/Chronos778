@@ -15,36 +15,15 @@
 
 ## About Me
 
-```typescript
-class Developer {
-  name: string = "Maithil";
-  location: string = "Earth";
-  
-  skills = {
-    languages: ["JavaScript", "Python", "Java", "C/C++"],
-    frontend: ["React", "Next.js"],
-    backend: ["Node.js", "FastAPI", "Python"],
-    databases: ["PostgreSQL", "MySQL", "SQLite3"],
-    tools: ["Git", "GitHub", "Linux", "VS Code"]
-  };
-
-  currentlyLearning: string = "AI/ML";
-  
-  getGoals(): string[] {
-    return [
-      "Build scalable applications",
-      "Contribute to open source",
-      "Share knowledge with the community"
-    ];
-  }
-}
-
-const maithil = new Developer();
-```
+<div align="center">
+  <img src="about-me-ui.svg" alt="About Me OS Window" width="100%" />
+</div>
 
 ---
 
-## GitHub Analytics
+```console
+maithil@archlinux:~$ ./fetch_metrics.sh --source=github
+```
 
 <div align="center">
   
@@ -52,7 +31,9 @@ const maithil = new Developer();
 
 </div>
 
-## Contribution Graph
+```console
+maithil@archlinux:~$ python run_snake_animation.py
+```
 
 <div align="center">
   
@@ -62,7 +43,9 @@ const maithil = new Developer();
 
 ---
 
-## Connect with Me
+```console
+maithil@archlinux:~$ cat ~/contact_info.txt
+```
 
 <div align="center">
 
@@ -75,18 +58,24 @@ const maithil = new Developer();
 
 <div align="center">
 
-### Quotes
+```console
+maithil@archlinux:~$ curl -X GET "https://quotes-api/random"
+```
 
 <!-- Custom Quotes API: https://quotes-api-ruddy.vercel.app -->
 ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dark&width=800&height=200)
 
 *Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 10,000+ quotes!*
 
-### Spotify
+```console
+maithil@archlinux:~$ spotify-cli status --current
+```
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=0gg4st4k5208ie9e22fsz94si&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-### Discord Status
+```console
+maithil@archlinux:~$ lanyard fetch --user=1147423568808906793
+```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1147423568808906793)](https://discord.com/users/1147423568808906793)
 

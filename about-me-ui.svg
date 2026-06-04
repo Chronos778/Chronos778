@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+    <style>
+        .text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #abb2bf; }
+        .prompt-user { fill: #98c379; font-weight: bold; }
+        .prompt-colon { fill: #abb2bf; }
+        .prompt-tilde { fill: #61afef; font-weight: bold; }
+        .prompt-dollar { fill: #abb2bf; }
+        .cmd { fill: #56b6c2; font-weight: bold; }
+        .arg { fill: #e06c75; }
+        .string { fill: #98c379; }
+        .key { fill: #e06c75; }
+        .icon { fill: #c678dd; }
+    </style>
+    
+    <defs>
+        <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+            <feDropShadow dx="0" dy="15" stdDeviation="20" flood-color="#000000" flood-opacity="0.5"/>
+        </filter>
+    </defs>
+
+    <!-- Main Window Background -->
+    <rect x="20" y="20" width="760" height="460" rx="10" fill="#1e1e1e" filter="url(#shadow)"/>
+    
+    <!-- Title Bar -->
+    <path d="M 20 30 Q 20 20 30 20 L 770 20 Q 780 20 780 30 L 780 50 L 20 50 Z" fill="#2d2d2d"/>
+    
+    <!-- Window Controls (Arch Linux style) -->
+
+    <!-- Title Text -->
+    <text x="400" y="39" fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" text-anchor="middle">maithil@archlinux: ~</text>
+
+    <!-- Terminal Content -->
+    <g class="text">
+        <text x="40" y="85">
+            <tspan class="prompt-user">maithil@archlinux</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-tilde">~</tspan><tspan class="prompt-dollar">$</tspan>
+            <tspan xml:space="preserve"> </tspan><tspan class="cmd">whoami</tspan>
+        </text>
+        <text x="40" y="110">Maithil — Aspiring Data Scientist, Problem Solver &amp; Tech Enthusiast</text>
+        <text x="40" y="130">Location: Earth</text>
+        
+        <text x="40" y="170">
+            <tspan class="prompt-user">maithil@archlinux</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-tilde">~</tspan><tspan class="prompt-dollar">$</tspan>
+            <tspan xml:space="preserve"> </tspan><tspan class="cmd">cat</tspan> <tspan class="arg">skills.json</tspan>
+        </text>
+        <text x="40" y="195">{</text>
+        <text x="60" y="215"><tspan class="key">"languages"</tspan>: [<tspan class="string">"JavaScript"</tspan>, <tspan class="string">"Python"</tspan>, <tspan class="string">"Java"</tspan>, <tspan class="string">"C/C++"</tspan>],</text>
+        <text x="60" y="235"><tspan class="key">"frontend"</tspan>:  [<tspan class="string">"React"</tspan>, <tspan class="string">"Next.js"</tspan>],</text>
+        <text x="60" y="255"><tspan class="key">"backend"</tspan>:   [<tspan class="string">"Node.js"</tspan>, <tspan class="string">"FastAPI"</tspan>, <tspan class="string">"Python"</tspan>],</text>
+        <text x="60" y="275"><tspan class="key">"databases"</tspan>: [<tspan class="string">"PostgreSQL"</tspan>, <tspan class="string">"MySQL"</tspan>, <tspan class="string">"SQLite3"</tspan>],</text>
+        <text x="60" y="295"><tspan class="key">"tools"</tspan>:     [<tspan class="string">"Git"</tspan>, <tspan class="string">"GitHub"</tspan>, <tspan class="string">"Linux"</tspan>, <tspan class="string">"VS Code"</tspan>]</text>
+        <text x="40" y="315">}</text>
+
+        <text x="40" y="355">
+            <tspan class="prompt-user">maithil@archlinux</tspan><tspan class="prompt-colon">:</tspan><tspan class="prompt-tilde">~</tspan><tspan class="prompt-dollar">$</tspan>
+            <tspan xml:space="preserve"> </tspan><tspan class="cmd">./status.sh</tspan>
+        </text>
+        <text x="40" y="380"><tspan class="icon">▶</tspan> Currently Learning: AI/ML</text>
+        <text x="40" y="405"><tspan class="icon">▶</tspan> Goals:</text>
+        <text x="60" y="425">- Build scalable applications</text>
+        <text x="60" y="445">- Contribute to open source</text>
+        <text x="60" y="465">- Share knowledge with the community</text>
+    </g>
+</svg>
