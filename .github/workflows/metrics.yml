@@ -43,7 +43,7 @@ jobs:
           plugin_languages_threshold: 0%
           
           # Lines of code
-          plugin_lines: yes
+          plugin_lines: no
           plugin_lines_delay: 120
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
