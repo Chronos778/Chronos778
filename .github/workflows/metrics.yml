@@ -11,7 +11,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.33
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -44,8 +44,9 @@ jobs:
           
           # Lines of code
           plugin_lines: yes
+          plugin_lines_delay: 120
           plugin_lines_history_limit: 1
-          plugin_lines_repositories_limit: 2
+          plugin_lines_repositories_limit: 4
           plugin_lines_sections: repositories, history
           
           # Stargazers
