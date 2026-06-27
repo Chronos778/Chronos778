@@ -49,5 +49,6 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base, repositories, history
           
-
+          # Stargazers
+          plugin_stargazers: no
 
