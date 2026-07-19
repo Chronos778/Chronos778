@@ -59,7 +59,7 @@
 
   <br />
 
-  ![Quote](https://quotes-api-ruddy.vercel.app/quotes/random/svg?theme=dark&width=800&height=200)
+  ![Quote](https://quotes-api-ruddy.vercel.app/quotes/qod/svg?theme=dark&width=800&height=200)
   <br />
   *Powered by my custom [Quotes API](https://quotes-api-ruddy.vercel.app) with 10,000+ quotes!!*
 
