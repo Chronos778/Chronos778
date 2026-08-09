@@ -5,7 +5,8 @@ import os
 
 def fetch_contributions(username, output_path):
     print(f"Fetching contributions for {username}...")
-    url = f"https://github.com/users/{username}/contributions"
+    import time
+    url = f"https://github.com/users/{username}/contributions?v={int(time.time())}"
     headers = {
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
     }
