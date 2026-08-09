@@ -16,7 +16,18 @@
 ## About Me
 
 <div align="center">
-  <img src="about-me.svg" alt="About Me OS Window" width="100%" />
+  <table width="100%">
+    <tr>
+      <td width="40%" align="center" valign="middle">
+        <h3>ASCII Portrait</h3>
+        <img src="avi-ascii.svg" width="100%" />
+      </td>
+      <td width="60%" align="center" valign="middle">
+        <h3>Terminal Profile</h3>
+        <img src="about-me.svg" alt="About Me OS Window" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -32,7 +43,8 @@
 ## Contribution Graph
 
 <div align="center">
-  <img src="github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%">
+
+  <img src="contrib-heatmap.svg" width="860" />
 </div>
 
 ---
