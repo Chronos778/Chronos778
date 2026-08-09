@@ -1,4 +1,4 @@
-<svg height="500" viewbox="0 0 800 500" width="800" xmlns="http://www.w3.org/2000/svg">
+<svg height="500" viewbox="0 0 660 500" width="660" xmlns="http://www.w3.org/2000/svg">
 <style>
         .text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 14px; fill: #abb2bf; }
         .prompt-user { fill: #98c379; font-weight: bold; }
@@ -19,12 +19,12 @@
 </filter>
 </defs>
 <!-- Main Window Background -->
-<rect fill="#1e1e1e" filter="url(#shadow)" height="460" rx="10" width="760" x="20" y="20"></rect>
+<rect fill="#1e1e1e" filter="url(#shadow)" height="460" rx="10" width="620" x="20" y="20"></rect>
 <!-- Title Bar -->
-<path d="M 20 30 Q 20 20 30 20 L 770 20 Q 780 20 780 30 L 780 50 L 20 50 Z" fill="#2d2d2d"></path>
+<path d="M 20 30 Q 20 20 30 20 L 630 20 Q 640 20 640 30 L 640 50 L 20 50 Z" fill="#2d2d2d"></path>
 <!-- Window Controls (Arch Linux style) -->
 <!-- Title Text -->
-<text fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" text-anchor="middle" x="400" y="39">maithil@archlinux: ~</text>
+<text fill="#8b8b8b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" text-anchor="middle" x="330" y="39">maithil@archlinux: ~</text>
 <!-- Terminal Content -->
 <g class="text">
 <text style="opacity: 0; animation: wipeText 0.4s ease-out forwards; animation-delay: 0.0s" x="40" y="85">
