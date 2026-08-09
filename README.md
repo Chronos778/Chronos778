@@ -20,7 +20,7 @@
     <tr>
       <td width="40%" align="center" valign="middle">
         <h3>ASCII Portrait</h3>
-        <img src="avi-ascii.svg" alt="ASCII Portrait" width="100%" />
+        <img src="avi-ascii.svg?v=color1" alt="ASCII Portrait" width="100%" />
       </td>
       <td width="60%" align="center" valign="middle">
         <h3>Terminal Profile</h3>
