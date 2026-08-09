@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Maithil
 
-### Aspiring Data Scientist | Problem Solver | Tech Enthusiast
+## Aspiring Data Scientist | Problem Solver | Tech Enthusiast
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Always+Building;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
 
@@ -20,7 +20,7 @@
     <tr>
       <td width="40%" align="center" valign="middle">
         <h3>ASCII Portrait</h3>
-        <img src="avi-ascii.svg" width="100%" />
+        <img src="avi-ascii.svg" alt="ASCII Portrait" width="100%" />
       </td>
       <td width="60%" align="center" valign="middle">
         <h3>Terminal Profile</h3>
@@ -36,7 +36,7 @@
 
 <div align="center">
 
-  <img src="contrib-heatmap.svg" width="860" />
+  <img src="contrib-heatmap.svg" alt="Contribution Graph" width="860" />
 </div>
 
 ---
