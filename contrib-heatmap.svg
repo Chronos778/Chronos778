@@ -370,7 +370,8 @@
   <rect class="box" x="734" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.995s;" />
   <rect class="box" x="748" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8200000000000003s;" />
   <rect class="box" x="748" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8550000000000002s;" />
-  <rect class="box" x="748" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.8900000000000001s;" />
+  <rect class="box" x="748" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8900000000000001s;" />
+  <rect class="box" x="748" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.9250000000000003s;" />
   <text x="588" y="147" class="text">Less</text>
   <rect x="618" y="138" width="10" height="10" fill="#161b22" rx="2" ry="2" />
   <rect x="632" y="138" width="10" height="10" fill="#0e4429" rx="2" ry="2" />
