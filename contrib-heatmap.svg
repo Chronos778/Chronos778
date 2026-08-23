@@ -24,20 +24,20 @@
   <rect class="box" x="48" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.17500000000000002s;" />
   <rect class="box" x="48" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.21000000000000002s;" />
   <rect class="box" x="48" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.24500000000000002s;" />
-  <rect class="box" x="48" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.28s;" />
+  <rect class="box" x="48" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.28s;" />
   <rect class="box" x="62" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.10500000000000001s;" />
   <rect class="box" x="62" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.14s;" />
   <rect class="box" x="62" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.17500000000000002s;" />
   <rect class="box" x="62" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.21000000000000002s;" />
   <rect class="box" x="62" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.24500000000000002s;" />
-  <rect class="box" x="62" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.28s;" />
-  <rect class="box" x="62" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.31500000000000006s;" />
+  <rect class="box" x="62" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.28s;" />
+  <rect class="box" x="62" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.31500000000000006s;" />
   <rect class="box" x="76" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.14s;" />
   <rect class="box" x="76" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.17500000000000002s;" />
   <rect class="box" x="76" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.21000000000000002s;" />
   <rect class="box" x="76" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.24500000000000002s;" />
   <rect class="box" x="76" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.28s;" />
-  <rect class="box" x="76" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.31500000000000006s;" />
+  <rect class="box" x="76" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.31500000000000006s;" />
   <rect class="box" x="76" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.35000000000000003s;" />
   <rect class="box" x="90" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.17500000000000002s;" />
   <rect class="box" x="90" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.21000000000000002s;" />
@@ -76,275 +76,275 @@
   <rect class="box" x="146" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.525s;" />
   <rect class="box" x="160" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.35000000000000003s;" />
   <rect class="box" x="160" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.385s;" />
-  <rect class="box" x="160" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.42000000000000004s;" />
+  <rect class="box" x="160" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.42000000000000004s;" />
   <rect class="box" x="160" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.45500000000000007s;" />
-  <rect class="box" x="160" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.49000000000000005s;" />
-  <rect class="box" x="160" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.525s;" />
-  <rect class="box" x="160" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.56s;" />
-  <rect class="box" x="174" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.385s;" />
+  <rect class="box" x="160" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 0.49000000000000005s;" />
+  <rect class="box" x="160" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.525s;" />
+  <rect class="box" x="160" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.56s;" />
+  <rect class="box" x="174" y="20" width="10" height="10" fill="#006d32" style="animation-delay: 0.385s;" />
   <rect class="box" x="174" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.42000000000000004s;" />
-  <rect class="box" x="174" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.45500000000000007s;" />
+  <rect class="box" x="174" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.45500000000000007s;" />
   <rect class="box" x="174" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.49000000000000005s;" />
-  <rect class="box" x="174" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 0.525s;" />
+  <rect class="box" x="174" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.525s;" />
   <rect class="box" x="174" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.56s;" />
   <rect class="box" x="174" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.5950000000000001s;" />
-  <rect class="box" x="188" y="20" width="10" height="10" fill="#006d32" style="animation-delay: 0.42000000000000004s;" />
-  <rect class="box" x="188" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.45500000000000007s;" />
-  <rect class="box" x="188" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.49000000000000005s;" />
-  <rect class="box" x="188" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.525s;" />
-  <rect class="box" x="188" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.56s;" />
+  <rect class="box" x="188" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.42000000000000004s;" />
+  <rect class="box" x="188" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.45500000000000007s;" />
+  <rect class="box" x="188" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.49000000000000005s;" />
+  <rect class="box" x="188" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.525s;" />
+  <rect class="box" x="188" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 0.56s;" />
   <rect class="box" x="188" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.5950000000000001s;" />
   <rect class="box" x="188" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.6300000000000001s;" />
   <rect class="box" x="202" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.45500000000000007s;" />
   <rect class="box" x="202" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.49000000000000005s;" />
-  <rect class="box" x="202" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.525s;" />
-  <rect class="box" x="202" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.56s;" />
-  <rect class="box" x="202" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 0.5950000000000001s;" />
-  <rect class="box" x="202" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.6300000000000001s;" />
-  <rect class="box" x="202" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.665s;" />
-  <rect class="box" x="216" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.49000000000000005s;" />
-  <rect class="box" x="216" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.525s;" />
+  <rect class="box" x="202" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.525s;" />
+  <rect class="box" x="202" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.56s;" />
+  <rect class="box" x="202" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.5950000000000001s;" />
+  <rect class="box" x="202" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.6300000000000001s;" />
+  <rect class="box" x="202" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.665s;" />
+  <rect class="box" x="216" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.49000000000000005s;" />
+  <rect class="box" x="216" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.525s;" />
   <rect class="box" x="216" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.56s;" />
   <rect class="box" x="216" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.5950000000000001s;" />
   <rect class="box" x="216" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.6300000000000001s;" />
   <rect class="box" x="216" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.665s;" />
   <rect class="box" x="216" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.7000000000000001s;" />
-  <rect class="box" x="230" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.525s;" />
+  <rect class="box" x="230" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.525s;" />
   <rect class="box" x="230" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.56s;" />
   <rect class="box" x="230" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.5950000000000001s;" />
   <rect class="box" x="230" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.6300000000000001s;" />
   <rect class="box" x="230" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.665s;" />
   <rect class="box" x="230" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.7000000000000001s;" />
-  <rect class="box" x="230" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.7350000000000001s;" />
-  <rect class="box" x="244" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.56s;" />
+  <rect class="box" x="230" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.7350000000000001s;" />
+  <rect class="box" x="244" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.56s;" />
   <rect class="box" x="244" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.5950000000000001s;" />
   <rect class="box" x="244" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.6300000000000001s;" />
   <rect class="box" x="244" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.665s;" />
-  <rect class="box" x="244" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.7000000000000001s;" />
+  <rect class="box" x="244" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 0.7000000000000001s;" />
   <rect class="box" x="244" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.7350000000000001s;" />
-  <rect class="box" x="244" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.77s;" />
+  <rect class="box" x="244" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.77s;" />
   <rect class="box" x="258" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.5950000000000001s;" />
   <rect class="box" x="258" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.6300000000000001s;" />
   <rect class="box" x="258" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.665s;" />
   <rect class="box" x="258" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.7000000000000001s;" />
-  <rect class="box" x="258" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 0.7350000000000001s;" />
-  <rect class="box" x="258" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.77s;" />
-  <rect class="box" x="258" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.805s;" />
+  <rect class="box" x="258" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.7350000000000001s;" />
+  <rect class="box" x="258" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.77s;" />
+  <rect class="box" x="258" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.805s;" />
   <rect class="box" x="272" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.6300000000000001s;" />
   <rect class="box" x="272" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.665s;" />
-  <rect class="box" x="272" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.7000000000000001s;" />
-  <rect class="box" x="272" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.7350000000000001s;" />
+  <rect class="box" x="272" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.7000000000000001s;" />
+  <rect class="box" x="272" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.7350000000000001s;" />
   <rect class="box" x="272" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.77s;" />
-  <rect class="box" x="272" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.805s;" />
+  <rect class="box" x="272" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.805s;" />
   <rect class="box" x="272" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8400000000000001s;" />
   <rect class="box" x="286" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.665s;" />
   <rect class="box" x="286" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.7000000000000001s;" />
-  <rect class="box" x="286" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.7350000000000001s;" />
-  <rect class="box" x="286" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.77s;" />
+  <rect class="box" x="286" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.7350000000000001s;" />
+  <rect class="box" x="286" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.77s;" />
   <rect class="box" x="286" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.805s;" />
   <rect class="box" x="286" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.8400000000000001s;" />
   <rect class="box" x="286" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8750000000000001s;" />
-  <rect class="box" x="300" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.7000000000000001s;" />
+  <rect class="box" x="300" y="20" width="10" height="10" fill="#006d32" style="animation-delay: 0.7000000000000001s;" />
   <rect class="box" x="300" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.7350000000000001s;" />
   <rect class="box" x="300" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.77s;" />
-  <rect class="box" x="300" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.805s;" />
+  <rect class="box" x="300" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.805s;" />
   <rect class="box" x="300" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.8400000000000001s;" />
   <rect class="box" x="300" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.8750000000000001s;" />
   <rect class="box" x="300" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9100000000000001s;" />
-  <rect class="box" x="314" y="20" width="10" height="10" fill="#006d32" style="animation-delay: 0.7350000000000001s;" />
-  <rect class="box" x="314" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.77s;" />
-  <rect class="box" x="314" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.805s;" />
+  <rect class="box" x="314" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.7350000000000001s;" />
+  <rect class="box" x="314" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.77s;" />
+  <rect class="box" x="314" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.805s;" />
   <rect class="box" x="314" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8400000000000001s;" />
   <rect class="box" x="314" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.8750000000000001s;" />
   <rect class="box" x="314" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.9100000000000001s;" />
-  <rect class="box" x="314" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9450000000000001s;" />
+  <rect class="box" x="314" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.9450000000000001s;" />
   <rect class="box" x="328" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.77s;" />
   <rect class="box" x="328" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.805s;" />
-  <rect class="box" x="328" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8400000000000001s;" />
-  <rect class="box" x="328" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8750000000000001s;" />
+  <rect class="box" x="328" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.8400000000000001s;" />
+  <rect class="box" x="328" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.8750000000000001s;" />
   <rect class="box" x="328" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.9100000000000001s;" />
   <rect class="box" x="328" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.9450000000000001s;" />
-  <rect class="box" x="328" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 0.9800000000000001s;" />
-  <rect class="box" x="342" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.805s;" />
-  <rect class="box" x="342" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8400000000000001s;" />
-  <rect class="box" x="342" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.8750000000000001s;" />
+  <rect class="box" x="328" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9800000000000001s;" />
+  <rect class="box" x="342" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.805s;" />
+  <rect class="box" x="342" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.8400000000000001s;" />
+  <rect class="box" x="342" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8750000000000001s;" />
   <rect class="box" x="342" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.9100000000000001s;" />
   <rect class="box" x="342" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.9450000000000001s;" />
-  <rect class="box" x="342" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 0.9800000000000001s;" />
+  <rect class="box" x="342" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9800000000000001s;" />
   <rect class="box" x="342" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.0150000000000001s;" />
   <rect class="box" x="356" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8400000000000001s;" />
-  <rect class="box" x="356" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.8750000000000001s;" />
+  <rect class="box" x="356" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8750000000000001s;" />
   <rect class="box" x="356" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9100000000000001s;" />
-  <rect class="box" x="356" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.9450000000000001s;" />
+  <rect class="box" x="356" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9450000000000001s;" />
   <rect class="box" x="356" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 0.9800000000000001s;" />
-  <rect class="box" x="356" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.0150000000000001s;" />
+  <rect class="box" x="356" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.0150000000000001s;" />
   <rect class="box" x="356" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.05s;" />
-  <rect class="box" x="370" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.8750000000000001s;" />
+  <rect class="box" x="370" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.8750000000000001s;" />
   <rect class="box" x="370" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9100000000000001s;" />
-  <rect class="box" x="370" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9450000000000001s;" />
-  <rect class="box" x="370" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9800000000000001s;" />
+  <rect class="box" x="370" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.9450000000000001s;" />
+  <rect class="box" x="370" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 0.9800000000000001s;" />
   <rect class="box" x="370" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.0150000000000001s;" />
   <rect class="box" x="370" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.05s;" />
-  <rect class="box" x="370" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.0850000000000002s;" />
+  <rect class="box" x="370" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.0850000000000002s;" />
   <rect class="box" x="384" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.9100000000000001s;" />
-  <rect class="box" x="384" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9450000000000001s;" />
+  <rect class="box" x="384" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.9450000000000001s;" />
   <rect class="box" x="384" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 0.9800000000000001s;" />
   <rect class="box" x="384" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.0150000000000001s;" />
   <rect class="box" x="384" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.05s;" />
   <rect class="box" x="384" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.0850000000000002s;" />
-  <rect class="box" x="384" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.12s;" />
-  <rect class="box" x="398" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 0.9450000000000001s;" />
+  <rect class="box" x="384" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.12s;" />
+  <rect class="box" x="398" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9450000000000001s;" />
   <rect class="box" x="398" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 0.9800000000000001s;" />
   <rect class="box" x="398" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.0150000000000001s;" />
-  <rect class="box" x="398" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.05s;" />
+  <rect class="box" x="398" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.05s;" />
   <rect class="box" x="398" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.0850000000000002s;" />
   <rect class="box" x="398" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.12s;" />
-  <rect class="box" x="398" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.155s;" />
+  <rect class="box" x="398" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.155s;" />
   <rect class="box" x="412" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 0.9800000000000001s;" />
-  <rect class="box" x="412" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.0150000000000001s;" />
+  <rect class="box" x="412" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.0150000000000001s;" />
   <rect class="box" x="412" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.05s;" />
   <rect class="box" x="412" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.0850000000000002s;" />
   <rect class="box" x="412" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.12s;" />
-  <rect class="box" x="412" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.155s;" />
-  <rect class="box" x="412" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.1900000000000002s;" />
-  <rect class="box" x="426" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.0150000000000001s;" />
-  <rect class="box" x="426" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.05s;" />
+  <rect class="box" x="412" y="90" width="10" height="10" fill="#006d32" style="animation-delay: 1.155s;" />
+  <rect class="box" x="412" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.1900000000000002s;" />
+  <rect class="box" x="426" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.0150000000000001s;" />
+  <rect class="box" x="426" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.05s;" />
   <rect class="box" x="426" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.0850000000000002s;" />
   <rect class="box" x="426" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.12s;" />
   <rect class="box" x="426" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.155s;" />
-  <rect class="box" x="426" y="90" width="10" height="10" fill="#006d32" style="animation-delay: 1.1900000000000002s;" />
+  <rect class="box" x="426" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.1900000000000002s;" />
   <rect class="box" x="426" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.225s;" />
   <rect class="box" x="440" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.05s;" />
-  <rect class="box" x="440" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.0850000000000002s;" />
+  <rect class="box" x="440" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.0850000000000002s;" />
   <rect class="box" x="440" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.12s;" />
   <rect class="box" x="440" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.155s;" />
-  <rect class="box" x="440" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.1900000000000002s;" />
-  <rect class="box" x="440" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.225s;" />
+  <rect class="box" x="440" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.1900000000000002s;" />
+  <rect class="box" x="440" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.225s;" />
   <rect class="box" x="440" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2600000000000002s;" />
   <rect class="box" x="454" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.0850000000000002s;" />
-  <rect class="box" x="454" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.12s;" />
-  <rect class="box" x="454" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.155s;" />
-  <rect class="box" x="454" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.1900000000000002s;" />
+  <rect class="box" x="454" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.12s;" />
+  <rect class="box" x="454" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.155s;" />
+  <rect class="box" x="454" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.1900000000000002s;" />
   <rect class="box" x="454" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.225s;" />
   <rect class="box" x="454" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2600000000000002s;" />
   <rect class="box" x="454" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2950000000000002s;" />
   <rect class="box" x="468" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.12s;" />
   <rect class="box" x="468" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.155s;" />
-  <rect class="box" x="468" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.1900000000000002s;" />
+  <rect class="box" x="468" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.1900000000000002s;" />
   <rect class="box" x="468" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.225s;" />
-  <rect class="box" x="468" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2600000000000002s;" />
-  <rect class="box" x="468" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2950000000000002s;" />
-  <rect class="box" x="468" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.33s;" />
+  <rect class="box" x="468" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.2600000000000002s;" />
+  <rect class="box" x="468" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.2950000000000002s;" />
+  <rect class="box" x="468" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.33s;" />
   <rect class="box" x="482" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.155s;" />
   <rect class="box" x="482" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.1900000000000002s;" />
   <rect class="box" x="482" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.225s;" />
-  <rect class="box" x="482" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.2600000000000002s;" />
-  <rect class="box" x="482" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.2950000000000002s;" />
+  <rect class="box" x="482" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2600000000000002s;" />
+  <rect class="box" x="482" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2950000000000002s;" />
   <rect class="box" x="482" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.33s;" />
-  <rect class="box" x="482" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.3650000000000002s;" />
-  <rect class="box" x="496" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.1900000000000002s;" />
-  <rect class="box" x="496" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.225s;" />
-  <rect class="box" x="496" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.2600000000000002s;" />
+  <rect class="box" x="482" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.3650000000000002s;" />
+  <rect class="box" x="496" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.1900000000000002s;" />
+  <rect class="box" x="496" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.225s;" />
+  <rect class="box" x="496" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2600000000000002s;" />
   <rect class="box" x="496" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2950000000000002s;" />
   <rect class="box" x="496" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.33s;" />
   <rect class="box" x="496" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.3650000000000002s;" />
-  <rect class="box" x="496" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4000000000000001s;" />
-  <rect class="box" x="510" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.225s;" />
+  <rect class="box" x="496" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.4000000000000001s;" />
+  <rect class="box" x="510" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.225s;" />
   <rect class="box" x="510" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2600000000000002s;" />
   <rect class="box" x="510" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2950000000000002s;" />
-  <rect class="box" x="510" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.33s;" />
-  <rect class="box" x="510" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.3650000000000002s;" />
+  <rect class="box" x="510" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.33s;" />
+  <rect class="box" x="510" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.3650000000000002s;" />
   <rect class="box" x="510" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.4000000000000001s;" />
-  <rect class="box" x="510" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.435s;" />
-  <rect class="box" x="524" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.2600000000000002s;" />
+  <rect class="box" x="510" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.435s;" />
+  <rect class="box" x="524" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2600000000000002s;" />
   <rect class="box" x="524" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2950000000000002s;" />
   <rect class="box" x="524" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.33s;" />
-  <rect class="box" x="524" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.3650000000000002s;" />
-  <rect class="box" x="524" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.4000000000000001s;" />
-  <rect class="box" x="524" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.435s;" />
-  <rect class="box" x="524" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4700000000000002s;" />
-  <rect class="box" x="538" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.2950000000000002s;" />
-  <rect class="box" x="538" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.33s;" />
+  <rect class="box" x="524" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.3650000000000002s;" />
+  <rect class="box" x="524" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4000000000000001s;" />
+  <rect class="box" x="524" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.435s;" />
+  <rect class="box" x="524" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.4700000000000002s;" />
+  <rect class="box" x="538" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.2950000000000002s;" />
+  <rect class="box" x="538" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.33s;" />
   <rect class="box" x="538" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.3650000000000002s;" />
   <rect class="box" x="538" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4000000000000001s;" />
   <rect class="box" x="538" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.435s;" />
   <rect class="box" x="538" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4700000000000002s;" />
   <rect class="box" x="538" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.5050000000000001s;" />
   <rect class="box" x="552" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.33s;" />
-  <rect class="box" x="552" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.3650000000000002s;" />
+  <rect class="box" x="552" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.3650000000000002s;" />
   <rect class="box" x="552" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4000000000000001s;" />
   <rect class="box" x="552" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.435s;" />
   <rect class="box" x="552" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4700000000000002s;" />
   <rect class="box" x="552" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5050000000000001s;" />
   <rect class="box" x="552" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.54s;" />
-  <rect class="box" x="566" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.3650000000000002s;" />
-  <rect class="box" x="566" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4000000000000001s;" />
-  <rect class="box" x="566" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.435s;" />
-  <rect class="box" x="566" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4700000000000002s;" />
+  <rect class="box" x="566" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.3650000000000002s;" />
+  <rect class="box" x="566" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.4000000000000001s;" />
+  <rect class="box" x="566" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.435s;" />
+  <rect class="box" x="566" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.4700000000000002s;" />
   <rect class="box" x="566" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5050000000000001s;" />
-  <rect class="box" x="566" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.54s;" />
-  <rect class="box" x="566" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.5750000000000002s;" />
-  <rect class="box" x="580" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4000000000000001s;" />
+  <rect class="box" x="566" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.54s;" />
+  <rect class="box" x="566" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5750000000000002s;" />
+  <rect class="box" x="580" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.4000000000000001s;" />
   <rect class="box" x="580" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.435s;" />
-  <rect class="box" x="580" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.4700000000000002s;" />
-  <rect class="box" x="580" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.5050000000000001s;" />
+  <rect class="box" x="580" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4700000000000002s;" />
+  <rect class="box" x="580" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5050000000000001s;" />
   <rect class="box" x="580" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.54s;" />
-  <rect class="box" x="580" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.5750000000000002s;" />
+  <rect class="box" x="580" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5750000000000002s;" />
   <rect class="box" x="580" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.61s;" />
-  <rect class="box" x="594" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.435s;" />
+  <rect class="box" x="594" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.435s;" />
   <rect class="box" x="594" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.4700000000000002s;" />
-  <rect class="box" x="594" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5050000000000001s;" />
+  <rect class="box" x="594" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.5050000000000001s;" />
   <rect class="box" x="594" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.54s;" />
-  <rect class="box" x="594" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5750000000000002s;" />
+  <rect class="box" x="594" y="76" width="10" height="10" fill="#006d32" style="animation-delay: 1.5750000000000002s;" />
   <rect class="box" x="594" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.61s;" />
   <rect class="box" x="594" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6450000000000002s;" />
-  <rect class="box" x="608" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.4700000000000002s;" />
-  <rect class="box" x="608" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.5050000000000001s;" />
-  <rect class="box" x="608" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.54s;" />
+  <rect class="box" x="608" y="20" width="10" height="10" fill="#26a641" style="animation-delay: 1.4700000000000002s;" />
+  <rect class="box" x="608" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5050000000000001s;" />
+  <rect class="box" x="608" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.54s;" />
   <rect class="box" x="608" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5750000000000002s;" />
-  <rect class="box" x="608" y="76" width="10" height="10" fill="#006d32" style="animation-delay: 1.61s;" />
-  <rect class="box" x="608" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6450000000000002s;" />
+  <rect class="box" x="608" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.61s;" />
+  <rect class="box" x="608" y="90" width="10" height="10" fill="#39d353" style="animation-delay: 1.6450000000000002s;" />
   <rect class="box" x="608" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6800000000000002s;" />
-  <rect class="box" x="622" y="20" width="10" height="10" fill="#26a641" style="animation-delay: 1.5050000000000001s;" />
+  <rect class="box" x="622" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5050000000000001s;" />
   <rect class="box" x="622" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.54s;" />
   <rect class="box" x="622" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5750000000000002s;" />
   <rect class="box" x="622" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.61s;" />
   <rect class="box" x="622" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6450000000000002s;" />
-  <rect class="box" x="622" y="90" width="10" height="10" fill="#39d353" style="animation-delay: 1.6800000000000002s;" />
+  <rect class="box" x="622" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6800000000000002s;" />
   <rect class="box" x="622" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.715s;" />
   <rect class="box" x="636" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.54s;" />
   <rect class="box" x="636" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5750000000000002s;" />
   <rect class="box" x="636" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.61s;" />
   <rect class="box" x="636" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6450000000000002s;" />
   <rect class="box" x="636" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6800000000000002s;" />
-  <rect class="box" x="636" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.715s;" />
+  <rect class="box" x="636" y="90" width="10" height="10" fill="#006d32" style="animation-delay: 1.715s;" />
   <rect class="box" x="636" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7500000000000002s;" />
   <rect class="box" x="650" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.5750000000000002s;" />
   <rect class="box" x="650" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.61s;" />
   <rect class="box" x="650" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6450000000000002s;" />
   <rect class="box" x="650" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6800000000000002s;" />
   <rect class="box" x="650" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.715s;" />
-  <rect class="box" x="650" y="90" width="10" height="10" fill="#006d32" style="animation-delay: 1.7500000000000002s;" />
-  <rect class="box" x="650" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7850000000000001s;" />
-  <rect class="box" x="664" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.61s;" />
-  <rect class="box" x="664" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6450000000000002s;" />
-  <rect class="box" x="664" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6800000000000002s;" />
-  <rect class="box" x="664" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.715s;" />
-  <rect class="box" x="664" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7500000000000002s;" />
-  <rect class="box" x="664" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7850000000000001s;" />
+  <rect class="box" x="650" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7500000000000002s;" />
+  <rect class="box" x="650" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.7850000000000001s;" />
+  <rect class="box" x="664" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.61s;" />
+  <rect class="box" x="664" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.6450000000000002s;" />
+  <rect class="box" x="664" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.6800000000000002s;" />
+  <rect class="box" x="664" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.715s;" />
+  <rect class="box" x="664" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.7500000000000002s;" />
+  <rect class="box" x="664" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.7850000000000001s;" />
   <rect class="box" x="664" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.8200000000000003s;" />
-  <rect class="box" x="678" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.6450000000000002s;" />
+  <rect class="box" x="678" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6450000000000002s;" />
   <rect class="box" x="678" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.6800000000000002s;" />
   <rect class="box" x="678" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.715s;" />
   <rect class="box" x="678" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.7500000000000002s;" />
-  <rect class="box" x="678" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.7850000000000001s;" />
+  <rect class="box" x="678" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7850000000000001s;" />
   <rect class="box" x="678" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.8200000000000003s;" />
   <rect class="box" x="678" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.8550000000000002s;" />
-  <rect class="box" x="692" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.6800000000000002s;" />
+  <rect class="box" x="692" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.6800000000000002s;" />
   <rect class="box" x="692" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.715s;" />
   <rect class="box" x="692" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.7500000000000002s;" />
   <rect class="box" x="692" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.7850000000000001s;" />
-  <rect class="box" x="692" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8200000000000003s;" />
+  <rect class="box" x="692" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.8200000000000003s;" />
   <rect class="box" x="692" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.8550000000000002s;" />
   <rect class="box" x="692" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.8900000000000001s;" />
   <rect class="box" x="706" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.715s;" />
@@ -354,13 +354,13 @@
   <rect class="box" x="706" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.8550000000000002s;" />
   <rect class="box" x="706" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.8900000000000001s;" />
   <rect class="box" x="706" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.9250000000000003s;" />
-  <rect class="box" x="720" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.7500000000000002s;" />
-  <rect class="box" x="720" y="34" width="10" height="10" fill="#161b22" style="animation-delay: 1.7850000000000001s;" />
-  <rect class="box" x="720" y="48" width="10" height="10" fill="#161b22" style="animation-delay: 1.8200000000000003s;" />
-  <rect class="box" x="720" y="62" width="10" height="10" fill="#161b22" style="animation-delay: 1.8550000000000002s;" />
-  <rect class="box" x="720" y="76" width="10" height="10" fill="#161b22" style="animation-delay: 1.8900000000000001s;" />
-  <rect class="box" x="720" y="90" width="10" height="10" fill="#161b22" style="animation-delay: 1.9250000000000003s;" />
-  <rect class="box" x="720" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 1.9600000000000002s;" />
+  <rect class="box" x="720" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7500000000000002s;" />
+  <rect class="box" x="720" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7850000000000001s;" />
+  <rect class="box" x="720" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8200000000000003s;" />
+  <rect class="box" x="720" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8550000000000002s;" />
+  <rect class="box" x="720" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8900000000000001s;" />
+  <rect class="box" x="720" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.9250000000000003s;" />
+  <rect class="box" x="720" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.9600000000000002s;" />
   <rect class="box" x="734" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.7850000000000001s;" />
   <rect class="box" x="734" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8200000000000003s;" />
   <rect class="box" x="734" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8550000000000002s;" />
@@ -368,13 +368,7 @@
   <rect class="box" x="734" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.9250000000000003s;" />
   <rect class="box" x="734" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.9600000000000002s;" />
   <rect class="box" x="734" y="104" width="10" height="10" fill="#0e4429" style="animation-delay: 1.995s;" />
-  <rect class="box" x="748" y="20" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8200000000000003s;" />
-  <rect class="box" x="748" y="34" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8550000000000002s;" />
-  <rect class="box" x="748" y="48" width="10" height="10" fill="#0e4429" style="animation-delay: 1.8900000000000001s;" />
-  <rect class="box" x="748" y="62" width="10" height="10" fill="#0e4429" style="animation-delay: 1.9250000000000003s;" />
-  <rect class="box" x="748" y="76" width="10" height="10" fill="#0e4429" style="animation-delay: 1.9600000000000002s;" />
-  <rect class="box" x="748" y="90" width="10" height="10" fill="#0e4429" style="animation-delay: 1.995s;" />
-  <rect class="box" x="748" y="104" width="10" height="10" fill="#161b22" style="animation-delay: 2.0300000000000002s;" />
+  <rect class="box" x="748" y="20" width="10" height="10" fill="#161b22" style="animation-delay: 1.8200000000000003s;" />
   <text x="588" y="147" class="text">Less</text>
   <rect x="618" y="138" width="10" height="10" fill="#161b22" rx="2" ry="2" />
   <rect x="632" y="138" width="10" height="10" fill="#0e4429" rx="2" ry="2" />
