@@ -15,6 +15,7 @@ jobs:
         with:
           filename: github-metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
           
           # Options
           user: Chronos778
