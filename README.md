@@ -16,18 +16,7 @@
 ## About Me
 
 <div align="center">
-  <table width="100%">
-    <tr>
-      <td width="40%" align="center" valign="middle">
-        <h3>ASCII Portrait</h3>
-        <img src="avi-ascii-color.svg" alt="ASCII Portrait" width="100%" />
-      </td>
-      <td width="60%" align="center" valign="middle">
-        <h3>Terminal Profile</h3>
-        <img src="about-me.svg" alt="About Me OS Window" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <img src="about-me.svg" alt="About Me OS Window" width="660" />
 </div>
 
 ---
