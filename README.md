@@ -1,3 +1,5 @@
+
+
 <div align="center">
 
 # 👋 Hey, I'm Maithil
@@ -26,6 +28,7 @@
 <div align="center">
 
   <img src="contrib-heatmap.svg" alt="Contribution Graph" width="860" />
+  <p>Updates daily at ~06:17 UTC</p>
 </div>
 
 ---
